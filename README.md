@@ -1,0 +1,1 @@
+This is G's first git project!
